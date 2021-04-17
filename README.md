@@ -12,7 +12,7 @@ Current stage: **beta**.
 
 ## 🏠 Smart Contract addresses across Binance Smart Chain networks
 
-- Binance smart chain testnet [0x0263BbFDff5F04C8323681205B3a608d5359Ff66](https://testnet.bscscan.com/address/0x0263BbFDff5F04C8323681205B3a608d5359Ff66)
+- Binance smart chain (testnet) [0x0263BbFDff5F04C8323681205B3a608d5359Ff66](https://testnet.bscscan.com/address/0x0263BbFDff5F04C8323681205B3a608d5359Ff66)
 
 ```
 Note: Smart Contract calls are proxied to main Smart Contract so calls destination is the Proxy Smart Contract itself.
