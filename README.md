@@ -1,9 +1,9 @@
 # NFT tokens renting platform
 
-## 💡 Description
-It is Smart Contract that allows lending BEP-721 Smart Contracts (NFT)
-and gain interest from it. On the other hand it allows to borrow same NFT's that are
-set for lending by paying collateral to Dapp which handles the lend process.
+##  Description
+
+dApps allows NFT's token holders to temporarily lease their tokens and gain interest from it.
+On the other hand, it allows renting the same NFT's by paying for use plus collateral.
 
 Current stage: **beta**.
 
