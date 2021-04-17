@@ -10,7 +10,7 @@ Current stage: **beta**.
 ## 🏹 Deployed client dApps on Netlify
 - Binance Smart Chain: [https://dreamy-bell-874b39.netlify.app/](https://dreamy-bell-874b39.netlify.app/)
 
-## 🏠 Smart Contract addresses across Ethereum networks
+## 🏠 Smart Contract addresses across Binance Smart Chain networks
 
 - Binance smart chain testnet [0x0263BbFDff5F04C8323681205B3a608d5359Ff66](https://testnet.bscscan.com/address/0x0263BbFDff5F04C8323681205B3a608d5359Ff66)
 
