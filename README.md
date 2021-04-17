@@ -8,8 +8,6 @@ On the other hand, it allows renting the same NFT's by paying for use plus colla
 Current stage: **beta**.
 
 ## 🏹 Deployed client dApps on Netlify
-- Mainnet: [https://lend721.app](https://lend721.app)
-- Rinkeby: [https://rinkeby.lend721.app](https://rinkeby.lend721.app)
 - Binance Smart Chain: [https://dreamy-bell-874b39.netlify.app/](https://dreamy-bell-874b39.netlify.app/)
 
 ## 🏠 Smart Contract addresses across Ethereum networks
