@@ -19,20 +19,20 @@ Note: Smart Contract calls are proxied to main Smart Contract so calls destinati
 ```
 
 ## ✅ To do
-- [ ] Client dApp: show lent data
-- [ ] Client dApp: show borrowed data
-- [ ] Client dApp borrower: call DAI approve method
-- [ ] Client dApp borrower: call borrow method
-- [ ] Client dApp lender: call  BEP 721 approve method
-- [ ] Client dApp lender: call  BEP 721lend set method
+- [ ] Client dApp: show leas data
+- [ ] Client dApp: show rented data
+- [ ] Client dApp lessee: call DAI approve method
+- [ ] Client dApp lessee: call borrow method
+- [ ] Client dApp lessor: call  BEP 721 approve method
+- [ ] Client dApp lessor: call  BEP 721 lend set method
 - [ ] Set duration for rentings
 - [ ] Deploy Smart Contract to mainnet
 - [ ] Verify Smart Contract in mainnet BSC
 - [ ] Put lenders addresses with lent tokens somwehere outside of smart contract (UX improvement) – (note: solved with thegraph.com)
-- [ ] Show message when collateral was already taken on expired lend
+- [ ] Show message when collateral was already taken on expired rent
 - [ ] Show success or error messages on each transaction
-- [ ] Email reminders for borrower or lender
-- [ ] Allow edit lend
+- [ ] Email reminders for lessee or lessor
+- [ ] Allow edit rent
 
 
 
