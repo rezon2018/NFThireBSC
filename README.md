@@ -23,11 +23,11 @@ Note: Smart Contract calls are proxied to main Smart Contract so calls destinati
 - [ ] Client dApp: show borrowed data
 - [ ] Client dApp borrower: call DAI approve method
 - [ ] Client dApp borrower: call borrow method
-- [ ] Client dApp lender: call ERC-721 approve method
-- [ ] Client dApp lender: call ERC-721 lend set method
-- [ ] Set duration for lendings
+- [ ] Client dApp lender: call  BEP 721 approve method
+- [ ] Client dApp lender: call  BEP 721lend set method
+- [ ] Set duration for rentings
 - [ ] Deploy Smart Contract to mainnet
-- [ ] Verify Smart Contract in mainnet Etherscan
+- [ ] Verify Smart Contract in mainnet BSC
 - [ ] Put lenders addresses with lent tokens somwehere outside of smart contract (UX improvement) – (note: solved with thegraph.com)
 - [ ] Show message when collateral was already taken on expired lend
 - [ ] Show success or error messages on each transaction
