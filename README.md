@@ -11,8 +11,7 @@ Current stage: **beta**.
 - Binance Smart Chain: [https://dreamy-bell-874b39.netlify.app/](https://dreamy-bell-874b39.netlify.app/)
 
 ## 🏠 Smart Contract addresses across Ethereum networks
-- Mainnet: [0xA133541435cAeB964f572132acd8FEAC3Ed1D80B](https://etherscan.io/address/0xA133541435cAeB964f572132acd8FEAC3Ed1D80B)
-- Rinkeby: [0x1762fd547d6C286a174dD62b6A6fACFAc064A0A0](https://rinkeby.etherscan.io/address/0x1762fd547d6C286a174dD62b6A6fACFAc064A0A0)
+
 - Binance smart chain testnet [0x0263BbFDff5F04C8323681205B3a608d5359Ff66](https://testnet.bscscan.com/address/0x0263BbFDff5F04C8323681205B3a608d5359Ff66)
 
 ```
