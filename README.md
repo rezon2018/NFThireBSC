@@ -1,4 +1,4 @@
-# BSC BEP-721 tokens lending platform
+# NFT tokens renting platform
 
 ## 💡 Description
 It is Smart Contract that allows lending BEP-721 Smart Contracts (NFT)
